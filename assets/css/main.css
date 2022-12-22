@@ -1969,8 +1969,8 @@ input, select, textarea {
 	#nav {
 		position: absolute;
 		right: 0;
-		top: 1.75rem;
-		font-size: 1.1em;
+		top: 2.25rem;
+		font-size: 1em;
 	}
 
 		#nav ul {
